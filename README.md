@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of the school district analysis
+## Overview of the school district analysis
 
 The purpose of the project is to provide an analysis on the the budget spending of schools and testing scores with/without nineth grades. This analysis can help finding trends in school performance and can be used to make significant decisions. The results include:
 
@@ -16,27 +16,25 @@ The purpose of the project is to provide an analysis on the the budget spending 
   
   Tools used: pandas library, jupyter notebook
   
-  ##The Results
- -District Summary: 64.9% (25421 students)of the total students(39,170 total students) pass both reading and math among all 15 schools. The results were the same with or without nineth graders at Thomas High School removed.
+  ## The Results
+- District Summary: 64.9% (25421 students)of the total students(39,170 total students) pass both reading and math among all 15 schools. The results were the same with or without nineth graders at Thomas High School removed.
 
 ![district_summary](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/district_summary.png)
  
- -School Summary: Replacing ninth graders' math and reading score increased the overall passing rate from 65.1% to 90.6% once ninth grade scores data was removed
+- School Summary: Replacing ninth graders' math and reading score increased the overall passing rate from 65.1% to 90.6% once ninth grade scores data was removed
  
  **Original Results**
  ![Original](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/school_summary_original.png)
  
  **Revised Results**
- ![Revised]
-(https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/school_summary_revised.png)
+ ![Revised](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/school_summary_revised.png)
 
--How does replacing the ninth-grade scores affect the following:
+- How does replacing the ninth-grade scores affect the following:
 **Math and reading scores by grade:** For ninth grade, the results showed "Naan" whereas other grades showed value.
 
 ![math_result](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/replace_math_scores.png)
 
-![reading_result]
-(https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/replace_reading_score.png)
+![reading_result](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/replace_reading_score.png)
 
 **Scores by school spending:** locations that spent less than $584 per student had 90% overall passing grade vs. only 54% in the highest spending range of $645-$675.
 
@@ -48,8 +46,7 @@ The purpose of the project is to provide an analysis on the the budget spending 
 
 **Scores by school type:** There was no sigificant changes compared to the original result. Charter schools have 90% overall passing rate while District schools only have 54%.
 
-![type]
-(https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/scores_by_type.png)
+![type](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/scores_by_type.png)
 
 ##Summary
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the overall results were better than they were and there are four changes in the updated school distrcit analysis:
