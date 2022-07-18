@@ -30,6 +30,7 @@ The purpose of the project is to provide an analysis on the the budget spending 
  ![Revised](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/school_summary_revised.png)
 
 - How does replacing the ninth-grade scores affect the following:
+
 **Math and reading scores by grade:** For ninth grade, the results showed "Naan" whereas other grades showed value.
 
 ![math_result](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/replace_math_scores.png)
@@ -48,7 +49,7 @@ The purpose of the project is to provide an analysis on the the budget spending 
 
 ![type](https://github.com/tiffanylin706/School_District_Analysis/blob/e0a3e5481dc7793bd5864b5515db6640de340bfc/Resources/scores_by_type.png)
 
-##Summary
+## Summary
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the overall results were better than they were and there are four changes in the updated school distrcit analysis:
 
 * Total number of students reduced from 39,170 to 38,709.
